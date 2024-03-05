@@ -13,7 +13,7 @@ def process_line(line):
         frame_window = int(match.group(2))
 
         # Replace the line with the desired format
-        return f'{frame_window} {confidence_interval}'
+        return f'{confidence_interval}'
     
     # Return the original line if no match is found
     return line
