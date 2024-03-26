@@ -1,529 +1,316 @@
 file_name,class_id,class_name,pred_class_id,pred_class_name,window_size,confidence,is_pred_correct,time_interval,sampling_strategy
 mb2rno2ylUU.mp4,28,bobsledding,64,cleaning toilet,5,0.08556376,False,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,60,cleaning floor,5,0.886726,False,60,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.18336594,True,40,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,80,Random
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9999975,True,180,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9999999,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,318,snatch weight lifting,5,0.2524381,False,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.99999976,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.99905545,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,180,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9999999,True,160,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9999995,True,200,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,240,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.55385625,True,0,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9999776,True,40,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.99999976,True,80,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9986594,True,120,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9999993,True,160,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,200,MostRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,240,MostRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.8361219,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.63595176,True,60,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.975687,True,40,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,80,LeastRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.9999999,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.8873343,True,180,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,324,snowmobiling,5,0.8275228,False,160,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,0.99999845,True,200,LeastRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,5,1.0,True,240,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,324,snowmobiling,7,0.43637314,False,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,364,trapezing,7,0.9563578,False,60,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.9543297,True,0,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.999223,True,40,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.99979264,True,80,Random
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.9653057,True,180,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.99032766,True,160,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,200,Random
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.31257543,True,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.9999987,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,180,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.999624,True,0,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.98781747,True,40,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,80,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.94469637,True,120,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,160,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,200,MostRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,240,MostRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.9981268,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,31,bowling,7,0.9640772,False,60,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.9286154,True,40,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,80,LeastRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.99984765,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.999974,True,180,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,0.5192391,True,160,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,200,LeastRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,7,1.0,True,240,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.4331032,True,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,60,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.99990976,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9975152,True,180,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.99999774,True,0,Random
+mb2rno2ylUU.mp4,28,bobsledding,31,bowling,9,0.9984623,False,40,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9961516,True,80,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9999981,True,120,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9999999,True,160,Random
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9882079,True,200,Random
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.7269493,True,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.99999976,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,180,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.91015023,True,0,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.99999857,True,40,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,80,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9999988,True,120,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,160,MostRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,200,MostRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,240,MostRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9992298,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,31,bowling,9,0.9984623,False,60,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9969041,True,40,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,80,LeastRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9999999,True,180,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,0.9762264,True,160,LeastRecent
+mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,200,LeastRecent
 mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,9,1.0,True,240,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,0.77033925,True,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,1.0,True,60,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,0.9999808,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,1.0,True,180,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,0.99999976,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,0.99867874,True,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,1.0,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,0.9999995,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,1.0,True,180,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,1.0,True,240,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,0.99956936,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,31,bowling,11,0.9964541,False,60,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,1.0,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,0.9999993,True,180,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,11,1.0,True,240,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.9997577,True,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,1.0,True,60,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.9999324,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.99999595,True,180,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.9999975,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,291,sharpening pencil,13,0.13062046,False,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.99986637,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.99688977,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,1.0,True,180,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,1.0,True,240,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.9912533,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.6944377,True,60,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.9999354,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,0.99791557,True,180,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,13,1.0,True,240,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.9999651,True,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.99999905,True,60,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.99999714,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.9999999,True,180,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.99999964,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.9996049,True,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.9999857,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.9990577,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,1.0,True,180,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,1.0,True,240,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.9999999,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.99595034,True,60,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,1.0,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,0.99992955,True,180,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,15,1.0,True,240,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.9632846,True,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,1.0,True,60,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,1.0,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.9997826,True,180,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,1.0,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.9995727,True,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.99999905,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.9999877,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,1.0,True,180,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,1.0,True,240,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.99997056,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.9917047,True,60,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,1.0,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,0.99999034,True,180,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,17,1.0,True,240,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.9999745,True,0,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,1.0,True,60,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.9997408,True,120,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.99993455,True,180,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.9999999,True,240,Random
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.99989986,True,0,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.99999785,True,60,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.98299986,True,120,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,1.0,True,180,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,1.0,True,240,MostRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.9999424,True,0,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.9946674,True,60,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,1.0,True,120,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,0.9999783,True,180,LeastRecent
-mb2rno2ylUU.mp4,28,bobsledding,28,bobsledding,19,1.0,True,240,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,5,0.9999846,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,5,0.044298436,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,394,wrapping present,5,0.20108695,False,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,60,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,7,0.99999845,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,60,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,9,0.99987817,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,394,wrapping present,9,0.940057,False,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,60,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,11,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,11,1.0,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,11,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,11,0.99999964,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,394,wrapping present,11,0.978688,False,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,11,1.0,True,60,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,13,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,13,1.0,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,13,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,13,1.0,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,83,cutting watermelon,13,0.87840503,False,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,13,1.0,True,60,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,15,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,15,1.0,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,15,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,15,0.9999609,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,15,1.0,True,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,15,1.0,True,60,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,17,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,17,1.0,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,17,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,17,0.99999034,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,17,0.99999964,True,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,17,1.0,True,60,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,19,1.0,True,0,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,19,1.0,True,60,Random
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,19,1.0,True,0,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,19,1.0,True,60,MostRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,19,0.9999999,True,0,LeastRecent
-VWYSTU8X0lg.mp4,46,carving pumpkin,46,carving pumpkin,19,1.0,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.99999523,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.9954854,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,5,0.31343013,False,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,51,celebrating,5,0.16354465,False,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,87,dancing macarena,5,0.8956927,False,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.99999344,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,258,punching bag,5,0.54378253,False,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,280,roller skating,5,0.04900216,False,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.19294798,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.8449675,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.9997646,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.999877,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,94,dodgeball,5,0.20620224,False,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,51,celebrating,5,0.14609325,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,5,0.26173183,True,240,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,1.0,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.8080041,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.64453053,True,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.99762964,True,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.99999905,True,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,1.0,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,192,marching,7,0.70827454,False,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.64453053,True,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.99880254,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.9994174,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,1.0,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,1.0,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.30864745,True,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,161,hurling (sport),7,0.34842244,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,7,0.99996245,True,240,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,1.0,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.999948,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,9,0.98498917,False,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.49983096,True,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.998767,True,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,1.0,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.9797426,True,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.41434342,True,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.98083764,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.99353445,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,1.0,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,1.0,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.30734405,True,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,161,hurling (sport),9,0.84430885,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,9,0.9887217,True,240,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,1.0,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,1.0,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,11,0.4865282,False,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,0.99144554,True,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,0.9891055,True,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,1.0,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,0.8674018,True,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,11,0.98582643,False,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,0.9978929,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,0.9962739,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,1.0,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,1.0,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,0.32027245,True,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,161,hurling (sport),11,0.8926676,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,11,0.9864547,True,240,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.99999964,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.9948886,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.12345619,True,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.30887917,True,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.39221752,True,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.9999988,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,51,celebrating,13,0.09700232,False,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,13,0.5764331,False,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.57339,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.8159756,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.99999905,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,13,0.9999975,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,51,celebrating,13,0.18057087,False,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,161,hurling (sport),13,0.59370947,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,55,cheerleading,13,0.5530698,False,240,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.99999714,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.8721695,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,15,0.7109023,False,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.81994,True,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.95501626,True,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.99999464,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,51,celebrating,15,0.2055902,False,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,15,0.24825297,False,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.9351516,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.66938436,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.99998903,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.99955994,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.63476735,True,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,161,hurling (sport),15,0.58766687,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,15,0.6364532,True,240,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.9999999,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.9996195,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,17,0.7834328,False,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.7223693,True,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,243,playing recorder,17,0.62150854,False,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.99996316,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.64723873,True,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,17,0.6937167,False,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.62979245,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.86810166,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,1.0,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.9999902,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,17,0.47343487,True,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,161,hurling (sport),17,0.29700285,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,155,holding snake,17,0.6252823,False,240,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.9999995,True,0,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.99603784,True,60,Random
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,19,0.574094,False,120,Random
-u2U_TBuJZc4.mp4,43,capoeira,51,celebrating,19,0.33561572,False,180,Random
-u2U_TBuJZc4.mp4,43,capoeira,155,holding snake,19,0.44902542,False,240,Random
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.99998665,True,0,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.98626465,True,60,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,143,golf putting,19,0.88851726,False,120,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.85447437,True,180,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.76522005,True,240,MostRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.99999917,True,0,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.9999931,True,60,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,43,capoeira,19,0.49045718,True,120,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,161,hurling (sport),19,0.3147347,False,180,LeastRecent
-u2U_TBuJZc4.mp4,43,capoeira,155,holding snake,19,0.6554549,False,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.6422441,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,188,making pizza,5,0.9193587,False,60,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.9973047,True,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.9852143,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.99652797,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,116,eating spaghetti,5,0.43679637,False,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,110,eating cake,5,0.47160655,False,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.86524606,True,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.98583984,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.9597371,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,91,dining,5,0.9314627,False,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,91,dining,5,0.5613016,False,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.6702645,True,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.92665064,True,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,5,0.9807904,True,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.8551144,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.9911572,True,60,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.99798787,True,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.99824154,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.9013951,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.90628105,True,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.82296467,True,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,7,0.81525755,False,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.98726034,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.9056139,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.99998057,True,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.5794403,True,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,7,0.9569632,False,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,7,0.5382301,False,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,7,0.9013951,True,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.99941874,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.8936648,True,60,Random
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,9,0.91305304,False,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.903169,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.9860771,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.6556452,True,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.5783718,True,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,9,0.8611458,False,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.98923546,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.97763777,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.999941,True,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.4294865,True,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,9,0.690916,False,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,9,0.99678564,False,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,9,0.96152526,True,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.9992643,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,188,making pizza,11,0.9835323,False,60,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.96835905,True,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.99992454,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.92947173,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.9837493,True,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.9668297,True,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.5876349,True,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.971695,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.99772424,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.9999846,True,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.5974798,True,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,11,0.76690704,False,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,11,0.9913857,False,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,11,0.9503957,True,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.9891312,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,188,making pizza,13,0.6585458,False,60,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.9971731,True,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.9816736,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.9123422,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.86839956,True,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.7571959,True,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.8381258,True,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.9579607,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.98166305,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.9967079,True,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,91,dining,13,0.6690276,False,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,13,0.66368854,False,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.5579393,True,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,13,0.8858881,True,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.92513937,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.88754094,True,60,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.8471767,True,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.99254966,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.9134747,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.9454173,True,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.93071336,True,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,15,0.5958571,False,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.9848296,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.9134747,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.98576087,True,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.6149381,True,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,15,0.83395374,False,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,15,0.8376121,False,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,15,0.76389533,True,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.9926617,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,188,making pizza,17,0.83891124,False,60,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.9982609,True,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.9977848,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.7787853,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.9604924,True,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.9415966,True,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.6766886,True,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.99686927,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.8920523,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.99298465,True,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.38127363,True,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,17,0.799292,False,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,17,0.69989777,False,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,17,0.91978455,True,240,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.853016,True,0,Random
-LCBayTEeOh0.mp4,184,making a cake,188,making pizza,19,0.47987893,False,60,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.7383443,True,120,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.92975116,True,180,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.88554907,True,240,Random
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.98374635,True,0,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.9493609,True,60,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.9612148,True,120,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.9985958,True,180,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.9647713,True,240,MostRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.9800172,True,0,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.47514462,True,60,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,19,0.84437764,False,120,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,11,baking cookies,19,0.73148876,False,180,LeastRecent
-LCBayTEeOh0.mp4,184,making a cake,184,making a cake,19,0.8726979,True,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,345,sword fighting,5,0.33983734,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,152,high kick,5,0.6541334,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,173,jumpstyle dancing,5,0.41683987,False,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,5,0.66945255,False,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,346,tai chi,5,0.15897864,False,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,34,breakdancing,5,0.28872344,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,5,0.5462603,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,5,0.72580713,True,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,5,0.8423353,True,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,5,0.40643567,False,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,399,zumba,5,0.46291965,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,5,0.98889166,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,5,0.22559227,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,5,0.97324413,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,5,0.5883524,True,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,7,0.38473073,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,173,jumpstyle dancing,7,0.8824881,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,43,capoeira,7,0.67420167,False,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,7,0.6006627,False,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,179,krumping,7,0.32269666,False,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,183,lunge,7,0.65764976,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,173,jumpstyle dancing,7,0.89813244,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,7,0.56175345,False,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,7,0.56017077,True,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,7,0.9953334,False,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,399,zumba,7,0.4215429,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,7,0.56601745,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,7,0.348215,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,7,0.9892764,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,399,zumba,7,0.31523448,False,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,9,0.8616073,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,334,stretching leg,9,0.4165996,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,9,0.45804662,False,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,9,0.96023357,False,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,9,0.99919635,False,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,9,0.5637787,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,9,0.7019095,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,9,0.89231104,False,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,9,0.92299616,False,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,9,0.98732436,False,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,9,0.93375784,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,9,0.9989182,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,9,0.45804662,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,9,0.76462066,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,399,zumba,9,0.4836063,False,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,346,tai chi,11,0.9311,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,183,lunge,11,0.97341985,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,346,tai chi,11,0.88939506,False,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,399,zumba,11,0.72822976,False,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,11,0.59996665,True,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,11,0.9886114,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,173,jumpstyle dancing,11,0.7516521,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,11,0.84445924,False,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,11,0.95500064,False,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,11,0.8748103,False,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,11,0.88292223,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,11,0.99882895,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,11,0.6351596,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,11,0.8871281,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,11,0.59996665,True,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,13,0.9823485,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,43,capoeira,13,0.5361164,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,13,0.998329,True,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,13,0.22555493,True,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,179,krumping,13,0.19933887,False,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,13,0.39100477,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,13,0.55721873,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,13,0.90584165,True,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,13,0.22555493,True,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,179,krumping,13,0.19933887,False,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,346,tai chi,13,0.29494888,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,13,0.7060939,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,13,0.16358288,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,13,0.9404887,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,13,0.4123288,True,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,15,0.23493408,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,15,0.98481476,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,15,0.9976388,False,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,15,0.9774523,True,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,15,0.5150931,False,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,15,0.9111471,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,343,swinging legs,15,0.51668924,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,15,0.99579465,True,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,15,0.92160106,True,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,15,0.9040889,False,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,15,0.3505717,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,15,0.9735155,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,15,0.51443785,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,15,0.9888516,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,15,0.51576453,False,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,17,0.9952113,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,17,0.98714775,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,17,0.9935655,True,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,17,0.88953024,True,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,302,side kick,17,0.43711373,False,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,17,0.9280718,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,173,jumpstyle dancing,17,0.25353205,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,17,0.83456486,True,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,17,0.39752153,True,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,17,0.8845486,False,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,346,tai chi,17,0.21991606,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,17,0.872799,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,17,0.46198672,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,17,0.9894224,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,17,0.40868008,True,240,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,19,0.93748456,False,0,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,19,0.9931827,False,60,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.9999609,True,120,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.9757026,True,180,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.971099,True,240,Random
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,19,0.98632485,False,0,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,43,capoeira,19,0.61660165,False,60,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.8310464,True,120,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.6314791,True,180,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.55537206,True,240,MostRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,346,tai chi,19,0.22718695,False,0,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,75,country line dancing,19,0.93353486,False,60,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,277,robot dancing,19,0.53474474,False,120,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.9894413,True,180,LeastRecent
-226PNWYIkTM.mp4,86,dancing gangnam style,86,dancing gangnam style,19,0.41020462,True,240,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,0,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,40,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,0.91507244,True,80,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,120,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,160,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,200,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,240,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,0.9999018,True,0,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,40,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,0.99514645,True,80,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,120,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,238,playing monopoly,5,0.99994993,False,160,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,200,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,240,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,0,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,40,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,80,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,120,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,160,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,200,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,5,1.0,True,240,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,0,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,40,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,80,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,120,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,0.9938498,True,160,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,200,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,240,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,0,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,40,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,80,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,120,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,238,playing monopoly,7,0.45846525,False,160,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,200,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,240,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,0,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,40,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,80,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,120,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,160,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,200,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,7,1.0,True,240,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,0,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,40,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,0.9999912,True,80,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,120,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,160,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,200,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,240,Random
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,0,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,40,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,0.99999976,True,80,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,120,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,160,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,200,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,240,MostRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,0,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,40,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,80,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,120,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,160,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,200,LeastRecent
+fgdvvLLJ4qo.mp4,46,carving pumpkin,46,carving pumpkin,9,1.0,True,240,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,0,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,40,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,80,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,120,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,160,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,0.99997973,True,200,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,240,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,0,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,40,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,80,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,120,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,160,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,200,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,240,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,0,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,40,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,80,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,120,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,160,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,200,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,5,1.0,True,240,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,0,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,40,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,80,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,120,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,160,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,200,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,240,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,0,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,40,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,80,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,120,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,160,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,200,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,240,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,0,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,40,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,80,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,120,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,160,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,200,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,7,1.0,True,240,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,0,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,40,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,80,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,120,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,160,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,200,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,240,Random
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,0,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,40,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,80,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,120,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,160,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,0.999985,True,200,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,240,MostRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,0,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,40,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,80,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,120,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,160,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,200,LeastRecent
+ym2eg-lUx8s.mp4,43,capoeira,43,capoeira,9,1.0,True,240,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,264,reading book,5,0.46381447,False,0,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,5,0.99768424,True,40,Random
+p-soBwotd6M.mp4,184,making a cake,11,baking cookies,5,0.8454006,False,80,Random
+p-soBwotd6M.mp4,184,making a cake,188,making pizza,5,0.987751,False,120,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,5,0.51230574,True,160,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,5,0.65248024,True,200,Random
+p-soBwotd6M.mp4,184,making a cake,285,scrambling eggs,5,0.36378157,False,240,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,5,0.79763603,True,0,MostRecent
+p-soBwotd6M.mp4,184,making a cake,11,baking cookies,5,0.6696956,False,40,MostRecent
+p-soBwotd6M.mp4,184,making a cake,11,baking cookies,5,0.93880504,False,80,MostRecent
+p-soBwotd6M.mp4,184,making a cake,11,baking cookies,5,0.5327819,False,120,MostRecent
+p-soBwotd6M.mp4,184,making a cake,11,baking cookies,5,0.95419717,False,160,MostRecent
+p-soBwotd6M.mp4,184,making a cake,163,ice fishing,5,0.3360321,False,200,MostRecent
+p-soBwotd6M.mp4,184,making a cake,64,cleaning toilet,5,0.4784492,False,240,MostRecent
+p-soBwotd6M.mp4,184,making a cake,362,tossing salad,5,0.5433817,False,0,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,5,0.99911004,True,40,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,11,baking cookies,5,0.48148793,False,80,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,188,making pizza,5,0.987751,False,120,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,5,0.54883784,True,160,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,5,0.82040703,True,200,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,71,cooking egg,5,0.13660754,False,240,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,362,tossing salad,7,0.80282766,False,0,Random
+p-soBwotd6M.mp4,184,making a cake,185,making a sandwich,7,0.99576974,False,40,Random
+p-soBwotd6M.mp4,184,making a cake,185,making a sandwich,7,0.85452735,False,80,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,1.0,True,120,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,0.99194616,True,160,Random
+p-soBwotd6M.mp4,184,making a cake,306,skateboarding,7,0.10498077,False,200,Random
+p-soBwotd6M.mp4,184,making a cake,33,breading or breadcrumbing,7,0.4943024,False,240,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,0.9999913,True,0,MostRecent
+p-soBwotd6M.mp4,184,making a cake,203,opening bottle,7,0.93176526,False,40,MostRecent
+p-soBwotd6M.mp4,184,making a cake,188,making pizza,7,0.98822844,False,80,MostRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,0.9999577,True,120,MostRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,0.99194616,True,160,MostRecent
+p-soBwotd6M.mp4,184,making a cake,135,frying vegetables,7,0.41174594,False,200,MostRecent
+p-soBwotd6M.mp4,184,making a cake,135,frying vegetables,7,0.36599997,False,240,MostRecent
+p-soBwotd6M.mp4,184,making a cake,362,tossing salad,7,0.856561,False,0,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,0.9999999,True,40,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,109,eating burger,7,0.66796976,False,80,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,188,making pizza,7,0.99999917,False,120,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,0.99985695,True,160,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,7,0.57202256,True,200,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,70,cooking chicken,7,0.6518067,False,240,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,362,tossing salad,9,0.7575704,False,0,Random
+p-soBwotd6M.mp4,184,making a cake,185,making a sandwich,9,0.94525194,False,40,Random
+p-soBwotd6M.mp4,184,making a cake,109,eating burger,9,0.91510457,False,80,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.9999958,True,120,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.99795854,True,160,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.8767524,True,200,Random
+p-soBwotd6M.mp4,184,making a cake,33,breading or breadcrumbing,9,0.57467574,False,240,Random
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.9292825,True,0,MostRecent
+p-soBwotd6M.mp4,184,making a cake,70,cooking chicken,9,0.5744702,False,40,MostRecent
+p-soBwotd6M.mp4,184,making a cake,188,making pizza,9,0.98085326,False,80,MostRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.99993086,True,120,MostRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.9419433,True,160,MostRecent
+p-soBwotd6M.mp4,184,making a cake,135,frying vegetables,9,0.6804839,False,200,MostRecent
+p-soBwotd6M.mp4,184,making a cake,135,frying vegetables,9,0.7431656,False,240,MostRecent
+p-soBwotd6M.mp4,184,making a cake,135,frying vegetables,9,0.67749983,False,0,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.99999964,True,40,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,109,eating burger,9,0.8897695,False,80,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,188,making pizza,9,0.7322327,False,120,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.9985839,True,160,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,184,making a cake,9,0.96122116,True,200,LeastRecent
+p-soBwotd6M.mp4,184,making a cake,70,cooking chicken,9,0.48647085,False,240,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.97339994,False,0,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.8473697,False,40,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.9237469,False,80,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,5,0.34731108,False,120,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.83514035,False,160,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,5,0.40853631,False,200,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,5,0.9893511,False,240,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.9228744,False,0,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.8890288,False,40,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.95771515,False,80,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.25250763,False,120,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,5,0.8391687,False,160,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,5,0.16727975,False,200,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,5,0.9248011,False,240,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.6430338,False,0,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.96300936,False,40,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.85550463,False,80,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,5,0.89907724,False,120,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,3,applauding,5,0.26721898,False,160,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,87,dancing macarena,5,0.21955083,False,200,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,5,0.9682769,False,240,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.9716565,False,0,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.9985965,False,40,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,7,0.67562324,False,80,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.997577,False,120,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.6469471,False,160,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,91,dining,7,0.84158266,False,200,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,7,0.9993549,False,240,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.99912184,False,0,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,7,0.9945241,False,40,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.86693674,False,80,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.90010554,False,120,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,87,dancing macarena,7,0.36268944,False,160,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,91,dining,7,0.66184515,False,200,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,7,0.9555736,False,240,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,7,0.3733487,False,0,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.97400904,False,40,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,7,0.8592657,False,80,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.8846693,False,120,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,7,0.8744466,False,160,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,283,salsa dancing,7,0.818524,False,200,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,7,0.99969244,False,240,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.6843677,False,0,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.9718617,False,40,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,9,0.74568015,False,80,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.9911873,False,120,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,87,dancing macarena,9,0.36301786,False,160,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,9,0.59833294,False,200,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,9,0.99953187,False,240,Random
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.99921274,False,0,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.96951115,False,40,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,9,0.6577423,False,80,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.9927942,False,120,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,7,arranging flowers,9,0.70531255,False,160,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.95726466,False,200,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,9,0.98732287,False,240,MostRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.6843677,False,0,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.9897396,False,40,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,9,0.9959525,False,80,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.9465042,False,120,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,9,auctioning,9,0.9993874,False,160,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,304,singing,9,0.38569066,False,200,LeastRecent
+mlGoc5gHRSo.mp4,86,dancing gangnam style,204,opening present,9,0.99953187,False,240,LeastRecent
